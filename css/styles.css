@@ -9,9 +9,20 @@ img {
   width: 30%;
   float: right;
   background-color: powderblue;
+  margin: 12px;
+  border: 10px solid black;
+  padding: 4px;
 }
 
 .column {
   width: 300px;
+  float: left;
+}
+
+.discography {
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
   float: left;
 }
