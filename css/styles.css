@@ -1,0 +1,17 @@
+img {
+  float: left;
+  width: auto;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: powderblue;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
